@@ -1,0 +1,4 @@
+Project A folder contains Project A material. Some of the dataset files were too large and thus could not be uploaded to GitHub. These datasets must be installed by the user of the programs, and within each code, the appropriate directory to them must be set. Another change is that the programs were created within python virtual environments, with some requirements being added to the txt file, however, some were not added properly and require manually pip installing them. DataDAM-main contains task 1, while PAD-main contains task 2. Task 1 main directory should appear as follows:
+![image](https://github.com/user-attachments/assets/3ffb1a16-94f3-49b5-a4b6-68474c4e684a)
+
+If some dataset files are unavailable, the main file written by original authors (credited) will download them. Others may need to manually installed. If a folder contains a README.txt, please read, as it contains key information.
