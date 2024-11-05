@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Desktop/mnist_dataset"
+		}
+	],
+	"settings": {}
+}
