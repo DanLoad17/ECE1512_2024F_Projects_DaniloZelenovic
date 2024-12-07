@@ -6,4 +6,4 @@ The files in task 1 that should be executed are MNIST/MHIST a,b,d,e,3,4, Task1c.
 
 ======================================================
 
-Project B contains the codes of the second Project. There are 2 folders. The mamba folder contains the code required for part 1&2. It contains files download_dataset and prepare_metadata which need to be run in order to download the datasets. The requirements.txt files are provided to download any necessary dependencies. The second foolder contains the LLaVA code for task 3&4. It contains similar files.
+Project B contains the codes of the second Project. There are 2 folders. The mamba folder contains the code required for part 1&2. It contains files download_dataset and prepare_metadata which need to be run in order to download the datasets. The requirements.txt files are provided to download any necessary dependencies. The second folder contains the LLaVA code for task 3&4. It contains similar files.
