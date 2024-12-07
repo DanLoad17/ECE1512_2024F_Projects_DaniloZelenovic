@@ -1,0 +1,1 @@
+For the first portion with mamba, the codes that need to be executed are the dataset download, metadata download, and the main.py codes. Another note is that the main.py code contains filepath directories. These need to be adjusted to match your own. A requirements.txt file is inluded to ensure similar performance and results.
