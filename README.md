@@ -3,3 +3,7 @@ Project A folder contains Project A material. Some of the dataset files were too
 
 If some dataset files are unavailable, the main file written by original authors (credited) will download them. And may require to be executed. Others may need to manually installed. If a folder contains a README.txt, please read, as it contains key information.
 The files in task 1 that should be executed are MNIST/MHIST a,b,d,e,3,4, Task1c. These are the codes corresponding to the appropriate sections, while for task 2, the code to be executed is main.py. 
+
+======================================================
+
+Project B contains the codes of the second Project. There are 2 folders. The mamba folder contains the code required for part 1&2. It contains files download_dataset and prepare_metadata which need to be run in order to download the datasets. The requirements.txt files are provided to download any necessary dependencies. The second foolder contains the LLaVA code for task 3&4. It contains similar files.
